@@ -1,0 +1,12 @@
+Window and Document
+window is object based top most element in browser.it repesent the window frame or tab that containing 
+DOM objects. each html tags leaded in to winow object model it is a DOM object. using this window contaning html, css, javascriptm
+and other scrpting. it can be accessed usiing window.document property
+
+
+
+
+screen
+ screen is a window property that hold the browser information from DOM and BOM. it used to showing font, color, screenwindth
+height.
+
